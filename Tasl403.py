@@ -14,3 +14,5 @@ for list_input  in  unic_num_list :
 print('a sequence of non-repeating numbers')
 
 print(list_rezult)
+
+
